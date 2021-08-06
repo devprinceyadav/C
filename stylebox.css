@@ -1,0 +1,26 @@
+h1{
+    background-color: lightslategrey;
+    text-align: center;
+    
+}
+section{
+    border:2px solid grey;
+
+
+}
+.about-me{
+    margin-bottom:40px;
+    padding :15px;
+}
+.about-illy{
+    padding:15px;
+}
+.container{
+    width:800px;
+    margin:0 auto;
+
+
+}
+section h3{
+    text-transform:uppercase;
+}
